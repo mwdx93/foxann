@@ -2,7 +2,7 @@
 FOXANN is a neural network implementation that utilizes the FOX optimizer for enhanced performance.
 
 
-## Installation
+## Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/mwdali93/foxann.git
@@ -12,10 +12,9 @@ FOXANN is a neural network implementation that utilizes the FOX optimizer for en
    ```bash
    pip install -r requirements.txt
 
-3. Usage
-You can use the FOXANN class to train a neural network with cross-validation using the FastFOX optimizer.
+3. Example usage
+You can use the FOXANN class to train a neural network with cross-validation using the FOX optimizer.
 ```bash
-Example usage:
 from FOXANN import FOXANN
 import numpy as np
 
@@ -42,7 +41,7 @@ print("Mean F1 Score:", mean_f1_score)
 print("Mean Elapsed Time:", mean_elapsed_time)
 
 
-Citation
+## Citation
 If you use FOXANN in your research or project, please cite:
 
 Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid (2024). Q-FOX Learning: Breaking Tradition in Reinforcement Learning, https://doi.org/10.48550/arXiv.2402.16562
