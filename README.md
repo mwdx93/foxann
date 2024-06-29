@@ -12,6 +12,7 @@ FOXANN, a novel classification model that combines the recently developed Fox op
    pip install -r requirements.txt
 
 3. Example usage
+
    You can use the FOXANN class to train a neural network with cross-validation using the FOX optimizer.
    ```bash
    from FOXANN import FOXANN
