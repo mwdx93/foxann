@@ -48,5 +48,7 @@ Mahmood A. Jumaah, Yossra H. Ali, Tarik A. Rashid (2024). Q-FOX Learning: Breaki
 
 Jumaah, Mahmood A.; Ali, Yossra H.; Rashid, Tarik A.; and Vimal, S. (2024). FOXANN: A Method for Boosting Neural Network Performance, Journal of Soft Computing and Computer Applications: Vol. 1: Iss. 1, Article 2. https://jscca.uotechnology.edu.iq/jscca/vol1/iss1/2/
 
+Jumaah, M.A., Ali, Y.H. and Rashid, T.A., 2025. Efficient Q-learning Hyperparameter Tuning Using FOX Optimization Algorithm. Results in Engineering, p.104341.
+
 Mohammed, H., Rashid, T. FOX: a FOX-inspired optimization algorithm. Appl Intell (2022). https://doi.org/10.1007/s10489-022-03533-0
 
